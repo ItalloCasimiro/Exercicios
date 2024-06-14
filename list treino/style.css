@@ -1,0 +1,14 @@
+section{
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    width: 220px;
+    padding: 20px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    font-family: arial;
+}

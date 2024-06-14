@@ -1,0 +1,25 @@
+section{
+    background-color: rgb(97, 97, 211);
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    padding: 5px;
+    font-family: arial;
+    margin: auto;
+    border-radius: 15px;
+}
+#bottsoma{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
+#res{
+    font-size: large;
+    padding: 3px;
+}
+#num1{
+    border-radius: 8px;
+}
+#num2{
+    border-radius: 8px;
+}

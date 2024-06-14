@@ -1,0 +1,29 @@
+section{
+    background-color: rgb(79, 79, 142);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    width: 300px;
+    padding: 8px;
+    height: 220px;
+    display: block;
+    margin: auto;
+}
+#email{
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+}
+#pass{
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+}
+#log{
+    width: 200px;
+    height: 35px;
+    background-color: rgb(36, 138, 36);
+    border: none;
+}

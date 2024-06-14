@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(4, 4, 9);
+}
+h1{
+    color: rgb(60, 191, 60);
+    padding: 15px;
+}
+section{
+    background-color: rgb(11, 11, 18);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding: 6px;
+}
+h2{
+    color: rgb(60, 191, 60);
+}
+#email{
+    width: 320px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgb(15, 15, 42);
+    border: none;
+    color: white;
+}
+#senha{
+    width: 320px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgb(15, 15, 42);
+    border: none;
+    color: white;
+}
+#logar{
+    width: 320px;
+    height: 35px;
+    border-radius: 8px;
+    background-color: rgb(48, 176, 48);
+    border: none;
+}
+footer{
+    color: white;
+    text-align: center;
+}
+::placeholder{
+    padding-left: 8px;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudos</title>
+    <style>
+        div > p{
+            display: none;
+        }
+        div:hover > p{
+            color: red;
+            background-color: black;
+            display: block;
+        }
+
+        a{
+            text-decoration: none;
+            color: green;
+        }
+
+        a:hover{
+            color: blue;
+            text-decoration: underline;
+        }
+        a::after{
+            content: " [link]";
+            color: lightgray;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        clique em mim
+        <p>texto escondido</p>
+    </div>
+    <a href="youtube.com">youtube</a>
+</body>
+</html>
